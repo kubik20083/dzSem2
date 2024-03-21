@@ -1,3 +1,5 @@
+//Задача 2. Сумма и произведение трех чисел
+
 #include<stdio.h>
 
 int main(int argc, char const *argv[])

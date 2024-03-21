@@ -1,3 +1,4 @@
+//Задача 1. Сумма трех чисел
 #include<stdio.h>
 
 int main(int argc, char const *argv[])
